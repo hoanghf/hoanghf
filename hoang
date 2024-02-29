@@ -1,0 +1,9 @@
+remote: Enumerating objects: 23, done.
+remote: Couting objects:100% (23-23), done.
+remote: Compressing objects: 100% (9-9), done. 
+remote: Total 23 (delta 6), reued 23 (delta 6), park-reused 0 
+Unpacking objects: 100% (23/23), 2.48  kib | 1024 bytes/s, done.
+From ssh.gitlab-new.bap.jp: BAPsoftware/division2/training/git/git-practice-2023
++ ed80917...788f47b feature/Toan  -> origin/feature/toan (forced updatea)
+*[new branch]   feature/trieu/check_email -> origin/feature/trieu/check_email
+*[new branch]   feature/trieu/tieuHV -> oringin /feature/trieuHV
